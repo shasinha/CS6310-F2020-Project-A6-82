@@ -1,4 +1,7 @@
-A4 Repo for CS6310 Fall 2020
+A6-82 Project Repo for CS6310 Fall 2020
+
+Uses the same approach as the A4 Docker.
+
 # To Install Docker go to:
 ```
 https://docs.docker.com/get-docker/
